@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="debug karma tests" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:9876/debug.html">
+    <mapping url="webpack:///./test/aTest.js" local-file="$PROJECT_DIR$/test/aTest.js" />
+    <method />
+  </configuration>
+</component>
